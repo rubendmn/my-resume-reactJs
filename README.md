@@ -1,4 +1,4 @@
-# Ruben Martinez Project My resume website
+# Project: My Simple Resume Website
 
 This is an improved resume personal website from other contributors and added ReactJS technology with hooks and CSS with Bulma. [Live here](http://rubenmartinez.pro)
 
