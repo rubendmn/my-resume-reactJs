@@ -1,0 +1,203 @@
+{
+  "basics": {
+    "name": "Ruben Martinez",
+    "label": "Software Engineer ",
+    "label2": "Solutions & Cloud Architect",
+    "picture": "images/rubendmn.webp",
+    "x_pictureFallback": "images/rubendmn.jpg",
+    "x_title": "Delighted to have you here",
+    "summary": "I've been working as IT Professional more than 20 years in Developments, Operations and Supports, mostly as a DevOps engineer. I really enjoy working with Cloud technologies, building cloud-native applications, and integrations with it.<br />I believe I'm most proeficient and can help your company the most in the following topics:<br /><br /><ul><li><b>Senior Developer Experience</b></li><li><b>Database(s) Experience</b></li><li><b>Cloud Governance and Security</b></li><li><b>Service Management</b></li><li><b>Site reliability</b></li></ul>",
+    "email": "rubendmn@gmail.com",
+    "location": {
+      "country": "Central Florida",
+      "countryCode": "US",
+      "region": "United State"
+    },
+    "profiles": [
+      {
+        "network": "DEV Community",
+        "username": "rubendmn",
+        "url": "https://dev.to/rubendmn",
+        "x_icon": "fab fa-2x fa-dev"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "rubendmn",
+        "url": "https://www.linkedin.com/in/ruben-martinez-07897738/",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "rubendmn",
+        "url": "https://github.com/rubendmn",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "MM Solutions and Design Corp",
+      "position": "CEO & Software Engineer",
+      "website": "http://www.mmssolutions.site",
+      "startDate": "2020-03-16",
+      "endDate": "",
+      "summary": "A self-organizing company, offering customized software developments, and applications-processes intergrations services.",
+      "highlights": []
+    },
+    {
+      "company": "Executive Data System - Perfect Law",
+      "position": "Cloud Engineer",
+      "website": "https://perfectlaw.com",
+      "startDate": "2018-11-15",
+      "endDate": "",
+      "summary": "Managing all the phase of SDLC project(requirements, design, modeling, programming, documentation) of the new Web DMS (Document managment system). Using the top cloud technologies: API, Rest, C#, .net React JS, Electron, MVC, Microservices, SQL, Add-in technologies for Office and Adobe ... and more...",
+      "highlights": []
+    },
+    {
+      "company": "NCLH (Norwegian Cruise Line, Oceania and Regent)",
+      "position": "Integrations & Applications Developments Tech Lead ",
+      "startDate": "2015-03-01",
+      "endDate": "",
+      "summary": "Started working for myself, providing expertise on software development and DevOps culture and best practices for international startups.",
+      "highlights": []
+    },
+    {
+      "company": "Prestige Cruise Holding",
+      "position": "Sr. System Developer / Full Stack Developer",
+      "startDate": "2012-10-01",
+      "endDate": "2015-03-01",
+      "summary": "Developments  and Supports of Integrations from Cruise Ship Sources (MXP, AMOS, External Sources) to the Main ERP (GP) using SSIS and C# Scripts (econnect to GP, SSRS to reports, VB scripts).   Developments and Support of .NET’s Applications( Hotels agreements, Transports, Inventories and Logistics)  using the following  technologies: ASP.Net, C#, REST API, SQL Server 2008, SQL Server 2012. Development of Reports in SSRS.",
+      "highlights": []
+    },
+    {
+      "company": "Supermercados Unicasa C.A. | Caracas -Venezuela (Retail)  ",
+      "position": "Manager od Applications and Developments ",
+      "website": "",
+      "startDate": "2008-11-01",
+      "endDate": "2011-12-30",
+      "summary": "Coordination and Planning of All Application and Development for the Company (ERP, BI, Integrations, POS, and others)",
+      "highlights": []
+    }
+
+  ],
+  "educations": [
+    {
+      "institution": "Simon Bolivar University (Ccs-Vzla)",
+      "area": "Software Engineer",
+      "studyType": "Bachelor",     
+      "graduationYear": "2004",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Requirements Engineering"
+      ]
+    },
+    {
+      "institution": "Simon Bolivar University (Ccs-Vzla)",
+      "area": "Specialization in Finance",
+      "studyType": "MBA Specialization",     
+      "graduationYear": "2010",
+      "courses": [
+       ]
+    }
+    ,
+    {
+      "institution": "System & Information School Center(Mcy-Vzla)",
+      "area": "Programmer",
+      "studyType":"Associate",     
+      "graduationYear": "1997",
+      "courses": [     ]
+    }
+
+  ],
+  "skills": [
+    {
+      "name": "AWS",
+      "x_icon": "fa-brands fa-aws",
+      "x_description": "EC2, VPC, Cognito, CloudFormation, RDS, S3, AWS Lambda, API Gateway and others"
+    },
+    {
+      "name": "Azure",
+      "x_icon": "fa-brands fa-microsoft",
+      "x_description": "DevOps, App Service, Functions, API Managment and others"
+    },
+    {
+      "name": "Developments",
+      "x_icon": "fa-code",
+      "x_description": "C#, .NET, JAVA, Javascript, Typescript React Native, React JS"
+    },
+    {
+      "name": "Configuration Management",
+      "x_icon": "fa-gears",
+      "x_description": "Launching, configuring and maintaining cloud environments"
+    },
+    {
+      "name": "CI/CD",
+      "x_icon": "fa-infinity",
+      "x_description": "Implementing continuous integration and deployment pipelines with Jenkins, GitLab, Azure DevOps"
+    },
+    {
+      "name": "Business Inteligent",
+      "x_icon": "fa-brands fa-wpforms",
+      "x_description": "Developing code, scripts, reports, and automating tasks to generate analitic information for your business"
+    },
+    {
+      "name": "Monitoring",
+      "x_icon": "fa-chart-line",
+      "x_description": "Implementing centralized monitoring solution for cloud environments"
+    },
+    {
+      "name": "Containers",
+      "x_icon": "fa-brands fa-docker",
+      "x_description": "Delivering and distributing applications and tools with Docker, docker-compose and kubernetes"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Spanish/Español",
+      "fluency": "Native speaker"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+      "issuer": "Amazon Web Services Training and Certification",
+      "url": "https://www.credly.com/earner/earned/badge/702724ea-0031-4cbe-bc44-0fdf0e6284ae",
+      "x_badgeId": "702724ea-0031-4cbe-bc44-0fdf0e6284ae",
+      "x_imageId": "73e4a58b-a8ef-41a3-a7db-9183dd269882",
+      "x_imageName": "image.png"
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services Training and Certification",
+      "url": "https://www.credly.com/badges/d354d6e1-0363-4ef1-bad0-19437b84ec14",
+      "x_badgeId": "d354d6e1-0363-4ef1-bad0-19437b84ec14",
+      "x_imageId": "00634f82-b07f-4bbd-a6bb-53de397fc3a6",
+      "x_imageName": "image.png"
+    }
+    
+  ],
+  "interests": [
+    {
+      "name": "Futbol",
+      "x_icon": "fa-futbol"
+    },
+    {
+      "name": "Dog lover",
+      "x_icon": "fa-dog"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Cruises",
+      "x_icon": "fa-ship"
+    }
+  ]
+}
